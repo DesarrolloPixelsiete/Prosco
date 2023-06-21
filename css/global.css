@@ -8240,4 +8240,16 @@ h6.block_1477923107486 {
 	.block_1473835864949 {
 		background-position-x: 72% !important;
 	}
+
+	.block_1473835842331 { 
+		background-image: url('../images/back-products-prosco-mobile.jpg') !important;
+	}
+
+	.block_1473835842331 h6, h2, div, a {
+		color: #fff !important;
+	}
+
+	.block_1473835842331 a:before {
+		color: #fff !important;
+	}
 }
